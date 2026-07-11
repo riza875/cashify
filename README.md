@@ -1,2 +1,0 @@
-# cashify
-koin virtual
